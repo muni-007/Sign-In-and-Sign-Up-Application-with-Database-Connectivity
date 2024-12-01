@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/Screenshot 2024-10-24 115611.png</file>
+        <file>image/Screenshot 2024-10-24 115619.png</file>
+        <file>image/Screenshot 2024-10-24 115627.png</file>
+        <file>image/Screenshot 2024-10-24 115639.png</file>
+        <file>image/Screenshot 2024-10-24 115705.png</file>
+        <file>image/Screenshot 2024-10-24 115712.png</file>
+        <file>image/Screenshot 2024-10-24 115723.png</file>
+        <file>image/image123.jpeg</file>
+    </qresource>
+</RCC>
